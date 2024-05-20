@@ -1,5 +1,8 @@
-## Wesley's Github Pages test site
+# H1
+## H2: Wesley's Github Pages test site
 ### Hi there 👋
+0. First list item
+0. Second list item
 
 <!--
 **wrpeck/wrpeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
